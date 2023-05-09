@@ -9,3 +9,5 @@ multi realtime video stitching，contain global and local alignment, opencv stit
 
 ### 3. video_stiching_classical
 <p>use global alignment to stitch image and videos.<p/>
+
+<p>https://blog.csdn.net/ymilton/category_10871623.html<p/>
